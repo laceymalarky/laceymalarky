@@ -1,5 +1,5 @@
 # Hi there 👋
-Marine biologist turned data scientist
+I'm Lacey, a marine biologist turned data scientist.
 
 ### 🗂️ Highlighted Projects
 <a href="https://github.com/laceymalarky/exploratory_data_analysis_webapp">
