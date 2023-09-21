@@ -1,7 +1,7 @@
 # Hi there 👋
 Marine biologist turned data scientist
 
-### 🗂️ Highlight Projects
+### 🗂️ Highlighted Projects
 <a href="https://github.com/laceymalarky/exploratory_data_analysis_webapp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=laceymalarky&repo=exploratory_data_analysis_webapp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="EDA" />
 </a>
